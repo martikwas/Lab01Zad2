@@ -4,8 +4,9 @@ internal class Program
 {
     public static void Main(string[] args)
     {
-        for(int i =0; i<3; i++){
-            Console.Write("Hello\n");
-        }        
+        int a =6;
+        int b = 7;
+        Console.Write(a+b);
+
     }
 }
