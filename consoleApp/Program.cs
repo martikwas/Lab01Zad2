@@ -4,8 +4,8 @@ internal class Program
 {
     public static void Main(string[] args)
     {
-        int a = 1;
-        Console.WriteLine(a+"First modification!");
-        
+        for(int i =0; i<3; i++){
+            Console.Write("Hello\n");
+        }        
     }
 }
